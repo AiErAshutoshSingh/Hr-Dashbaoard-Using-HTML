@@ -151,20 +151,4 @@ HR-Analytics-Dashboard/
 
 ---
 
-# 👨‍💻 Author
 
-**Ashutosh Singh**
-
-AI & Machine Learning Engineer
-
-- Python
-- SQL
-- Power BI
-- Data Analytics
-- Machine Learning
-- Deep Learning
-- Business Intelligence
-
----
-
-## ⭐ If you found this project helpful, don't forget to Star ⭐ the repository!
