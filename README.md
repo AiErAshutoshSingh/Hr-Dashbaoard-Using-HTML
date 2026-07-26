@@ -65,31 +65,31 @@ This dashboard helps organizations answer questions such as:
 
 ## Dashboard 1
 
-![Dashboard 1](images/1.png)
-![Dashboard 1](images/1111.png)
+![Dashboard 1](1.png)
+![Dashboard 1](1111.png)
 ---
 
 ## Dashboard 2
 
-![Dashboard 2](images/2.png)
+![Dashboard 2](2.png)
 
 ---
 
 ## Dashboard 3
 
-![Dashboard 3](images/3.png)
+![Dashboard 3](3.png)
 
 ---
 
 ## Dashboard 4
 
-![Dashboard 4](images/4.png)
+![Dashboard 4](4.png)
 
 ---
 
 ## Dashboard 5
 
-![Dashboard 5](images/5.png)
+![Dashboard 5](5.png)
 
 ---
 
